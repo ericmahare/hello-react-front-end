@@ -5,6 +5,8 @@
 - [x] Programming Languages: Javascript
 - [x] Frameworks: React
 - [x] Linter: [Rubocop](https://rubocop.org/)
+## Back-end repo
+https://github.com/ericmahare/hello-rails-back-end
 
 ## Getting Started
 
